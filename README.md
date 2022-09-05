@@ -37,4 +37,4 @@ g++ tcp-echo-server.cpp -o TcpServer
 ```
 
 ## Motivation
-experience the differences of developing a client / server on Linux (Ubuntu) vs Windows 10 to improve my understanding of which resources are Linux specific.
+Experience the differences of developing a client / server on Linux (Ubuntu) vs Windows 10 to improve my understanding of which resources are Linux specific. Exercising using the terminal, installing c++ compiler and nagivating directories using commands.
